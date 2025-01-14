@@ -5,6 +5,8 @@
 
 ![clarissemaurila GitHub stats](https://github-readme-stats.vercel.app/api?username=clarissemaurila&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarissemaurila)](https://github.com/clarissemaurila/github-readme-stats)
+
 ### Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
