@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarissemaurila)](https://github.com/clarissemaurila/github-readme-stats)
 
-### Tecnologias que uso no meu dia a dia
+## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
